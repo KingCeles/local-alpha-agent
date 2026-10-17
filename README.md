@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-A 100% local, privacy-first equity research and financial RAG (Retrieval-Augmented Generation) terminal built for consumer GPUs (NVIDIA RTX 3060). 
+# A 100% local, privacy-first equity research and financial RAG (Retrieval-Augmented Generation) terminal built for consumer GPUs (NVIDIA RTX 3060). 
 
 ## Features
 - **Full Financial Statement Ingestion**: Automatically pulls Annual & Quarterly Income Statements, Balance Sheets, and Cash Flow Statements via `yfinance` and formats them into compact CSV context blocks.
@@ -29,6 +28,3 @@ pip install -r requirements.txt
 ```bash
 streamlit run rag_dashboard.py
 ```
-=======
-# local-alpha-agent
->>>>>>> 7190fb1e213147e8d7388fa97a6bd44f74836a1d
